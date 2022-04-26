@@ -1,9 +1,9 @@
-import CustomeHookEx1 from './components/CustomeHookEx1';
+import CustomeHookEx2 from './components/CustomeHookEx2';
 
 function App() {
   return (
     <div className="container mt-5">
-      <CustomeHookEx1 />
+      <CustomeHookEx2 />
     </div>
   );
 }
